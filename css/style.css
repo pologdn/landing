@@ -1,0 +1,26 @@
+@import url(href=https://fonts.googleapis.com/css2?family=Lora&family=Roboto:wght@100;500&display=swap);
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body { 
+   font-family: 'roboto', serif;
+   font-size: 18px;
+   margin: 0px;
+   font-weight: lighter;
+}
+h1, h2, { 
+   font-family: 'aharoni', sans-serif;
+   font-weight: 500;
+}
+
+h3 { 
+  font-family: 'aharoni', sans-serif;
+  color: white;
+}
+
+a { 
+   text-decoration: none; 
+}
